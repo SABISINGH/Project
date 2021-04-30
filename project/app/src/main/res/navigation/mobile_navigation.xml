@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    app:startDestination="@+id/navigation_home"
+    android:id="@+id/mobile_navigation">
+    <fragment
+        android:id="@+id/navigation_home"
+        android:name="op.mobile.app.dev.singhs2.travelling.ui.home.HomeFragment"
+        android:label="@string/home"
+        tools:layout="@layout/home_fragment" />
+    <fragment
+        android:id="@+id/navigation_phrases"
+        android:name="op.mobile.app.dev.singhs2.travelling.ui.phrases.PhrasesFragment"
+        android:label="@string/phrases"
+        tools:layout="@layout/phrases_fragment" />
+    <fragment
+        android:id="@+id/navigation_quiz"
+        android:name="op.mobile.app.dev.singhs2.travelling.ui.quiz.QuizFragment"
+        android:label="@string/quiz"
+        tools:layout="@layout/quiz_fragment" />
+    <fragment
+        android:id="@+id/navigation_translation"
+        android:name="op.mobile.app.dev.singhs2.travelling.ui.translation.TranslationFragment"
+        android:label="@string/translator"
+        tools:layout="@layout/translation_fragment" />
+    <fragment
+        android:id="@+id/navigation_settings"
+        android:name="op.mobile.app.dev.singhs2.travelling.ui.settings.SettingsFragment"
+        android:label="@string/settings"
+        tools:layout="@layout/settings_fragment" />
+
+</navigation>
