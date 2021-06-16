@@ -1,39 +1,68 @@
-name: Android Feature Branch CI
+name: Build Pull Request
 
-on:
-  push:
-    branches:
-      - 'main'
+on: pull_request
+
 jobs:
-  test:
+  test_job:
+    name: Test
     runs-on: macos-latest
+    continue-on-error: true
     steps:
-    - name: checkout
-      uses: actions/checkout@v2
+      - name: Checkout
+        uses: actions/checkout@v2
 
-    - name: run tests
-      uses: reactivecircus/android-emulator-runner@v2
-      with:
-        api-level: 28
-        arch: x86_64
-        profile: Nexus 6
-        script: ./gradlew connectedCheck
+      - name: Restore Cache
+        uses: actions/cache@v2
+        with:
+          path: |
+            ~/.gradle/caches
+            ~/.gradle/wrapper
+          key: ${{ runner.os }}-gradle-${{ hashFiles('**/*.gradle*') }}
+          restore-keys: |
+            ${{ runner.os }}-gradle-
+            
+      - name: Run Debug Tests
+        run: ./gradlew testDebugUnitTest --continue
 
-  apk:
-      name: Generate APK
-      needs: test
-      runs-on: ubuntu-latest
-      steps:
-        - name: Checkout
-          uses: actions/checkout@v1
-        - name: Setup JDK
-          uses: actions/setup-java@v1
-          with:
-            java-version: 1.8
-        - name: Build APK
-          run: bash ./gradlew assembleDebug --stacktrace
-        - name: Upload APK
-          uses: actions/upload-artifact@v1
-          with:
-            name: apk
-            path: app/build/outputs/apk/debug/app-debug.apk 
+      - name: Run Instrumented Tests
+        uses: reactivecircus/android-emulator-runner@v2
+        with:
+          api-level: 28
+          target: default
+          arch: x86_64
+          profile: Nexus 6
+          script: ./gradlew connectedCheck --continue
+
+      - name: Upload Test Reports
+        if: ${{ always() }}
+        uses: actions/upload-artifact@v2
+        with:
+          name: test-reports
+          path: '**/build/reports/tests/'
+
+  assemble_job:
+    name: Assemble
+    runs-on: ubuntu-latest
+    continue-on-error: true
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v2
+
+      - name: Restore Cache
+        uses: actions/cache@v2
+        with:
+          path: |
+            ~/.gradle/caches
+            ~/.gradle/wrapper
+          key: ${{ runner.os }}-gradle-${{ hashFiles('**/*.gradle*') }}
+          restore-keys: |
+            ${{ runner.os }}-gradle-
+            
+      - name: Assemble Debug
+        run: ./gradlew assembleDebug
+
+      - name: Upload APK
+        uses: actions/upload-artifact@v2
+        with:
+          name: apk
+          path: app/build/outputs/apk/debug/**.apk
