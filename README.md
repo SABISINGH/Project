@@ -1,6 +1,6 @@
 # IN721: Mobile Application Development - Project
 <h1>Travel Earth</h1>
-<img src="ic_launcher-playstore.png" alt="Girl in a jacket" width="500" height="600">
+<img src="/images/Travel Earth.jpg" alt="Travel Earth" width="500" height="600">
 
 ***Resources***<br/>
 
