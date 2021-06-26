@@ -1,4 +1,3 @@
-# IN721: Mobile Application Development - Project
 <h1>Travel Earth</h1></br></br>
 <img src="/images/Travel Earth.jpg" alt="Travel Earth Wireframe" width="200" height="200">
 <h2>Travel Earth Wireframe</h2></br></br>
