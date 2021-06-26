@@ -1,6 +1,6 @@
 # IN721: Mobile Application Development - Project
 <h1>Travel Earth</h1>
-<img src="/images/Travel Earth.jpg" alt="Travel Earth" width="500" height="600">
+<img src="/images/Travel Earth.jpg" alt="Travel Earth" width="200" height="200">
 
 ***Resources***<br/>
 
