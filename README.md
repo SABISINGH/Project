@@ -1,5 +1,5 @@
 <h1>Travel Earth</h1></br></br>
-<img src="/images/Travel Earth.jpg" alt="Travel Earth Wireframe" width="200" height="200">
+<img src="/images/Travel Earth.jpg" alt="Travel Earth Wireframe">
 <h2>Travel Earth Wireframe</h2></br></br>
 <p>Image below is the sketched wireframe of my application.</p>
 <img src="/images/Travel Earth Wireframe.png" alt="Travel Earth Wireframe"></br></br>
