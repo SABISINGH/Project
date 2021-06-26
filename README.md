@@ -1,4 +1,5 @@
 # IN721: Mobile Application Development - Project
+<h1>Travel Earth</h1>
 
 ***Resources***<br/>
 
