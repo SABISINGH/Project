@@ -6,10 +6,10 @@
 <img src="/images/Travel Earth Wireframe.png" alt="Travel Earth Wireframe"></br></br>
 
 <h2>URL to my application's privacy policy.</h2>
-<a href="https://otago-polytechnic-bit-courses.github.io/mobile-app-dev-s1-21-project-SABISINGH/">Travel Earth Privacy Policy</a>
+<a href="https://otago-polytechnic-bit-courses.github.io/mobile-app-dev-s1-21-project-SABISINGH/">Travel Earth Privacy Policy</a></br></br>
 
-<h2>URL to my application's terms & conditions.</h2>
-<a href="https://www.websitepolicies.com/policies/view/qBaLNp64">Terms & Conditions</a>
+<h2>URL to my application's <a href="https://www.websitepolicies.com/policies/view/qBaLNp64">Terms & Conditions</a></h2>
+</br></br>
 
 ***Resources***<br/>
 
