@@ -11,4 +11,4 @@
 <p></p>
 
 <h2>Resources</h2>
-<h2><a href="https://www.flaticon.com/free-icon/travelling_1748778?term=travelling&page=2&position=47&page=2&position=47&related_id=1748778&origin=search">Flaticon - For icons</a></h2></br>
+<h4><a href="https://www.flaticon.com/free-icon/travelling_1748778?term=travelling&page=2&position=47&page=2&position=47&related_id=1748778&origin=search">Flaticon - For icons</a></h4></br>
