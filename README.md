@@ -24,87 +24,87 @@
 <p></p>
 
 <h3>Google Maps Showing Top Tourists Attractions</h3>
-<img src="/images/Map Showing Tourist Attractions.jpg" alt="Map Showing Tourist Attractions" width="150" height="250">
+<p><img src="/images/Map Showing Tourist Attractions.jpg" alt="Map Showing Tourist Attractions" width="150" height="250">
 <img src="/images/Map Showing Tourist Attractions 1.jpg" alt="Map Showing Tourist Attractions" width="150" height="250">
 <img src="/images/Map Showing Tourist Attractions 2.jpg" alt="Map Showing Tourist Attractions" width="150" height="250">
 <img src="/images/Map Showing Tourist Attractions 3.jpg" alt="Map Showing Tourist Attractions" width="150" height="250">
-<img src="/images/Map Showing Tourist Attractions 4.jpg" alt="Map Showing Tourist Attractions" width="150" height="250">
+<p><img src="/images/Map Showing Tourist Attractions 4.jpg" alt="Map Showing Tourist Attractions" width="150" height="250"></p>
 <img src="/images/Attraction Details.jpg" alt="Attraction Details" width="150" height="250">
 <img src="/images/Change Map Style.jpg" alt="Change Map Style" width="150" height="250">
-<img src="/images/Change Map Style New.jpg" alt="Change Map Style New.jpg" width="150" height="250">
+<img src="/images/Change Map Style New.jpg" alt="Change Map Style New.jpg" width="150" height="250"></p>
 <p></p>
 
 <h3>Interactive Quiz</h3>
-<img src="/images/Quiz.jpg" alt="Quiz" width="150" height="250">
+<p><img src="/images/Quiz.jpg" alt="Quiz" width="150" height="250">
 <img src="/images/Quiz Dark.jpg" alt="Quiz Dark" width="150" height="250">
 <img src="/images/Quiz Start.jpg" alt="Quiz Start" width="150" height="250">
-<img src="/images/Quiz Start Dark.jpg" alt="Quiz Start Dark" width="150" height="250">
-<img src="/images/Quiz Right Answer.jpg" alt="Quiz Right Answer" width="150" height="250">
+<img src="/images/Quiz Start Dark.jpg" alt="Quiz Start Dark" width="150" height="250"></p>
+<p><img src="/images/Quiz Right Answer.jpg" alt="Quiz Right Answer" width="150" height="250">
 <img src="/images/Quiz Right Answer Dark.jpg" alt="Quiz Right Answer Dark" width="150" height="250">
 <img src="/images/Quiz Wrong Answer.jpg" alt="Quiz Wrong Answer" width="150" height="250">
-<img src="/images/Quiz Wrong Answer Dark.jpg" alt="Quiz Wrong Answer Dark" width="150" height="250">
-<img src="/images/Quiz Results.jpg" alt="Quiz Results" width="150" height="250">
+<img src="/images/Quiz Wrong Answer Dark.jpg" alt="Quiz Wrong Answer Dark" width="150" height="250"></p>
+<p><img src="/images/Quiz Results.jpg" alt="Quiz Results" width="150" height="250">
 <img src="/images/Quiz Results Dark.jpg" alt="Quiz Results Dark" width="150" height="250">
 <img src="/images/Quiz Highest Score.jpg" alt="Quiz Highest Score" width="150" height="250">
-<img src="/images/Quiz Highest Score Dark.jpg" alt="Quiz Highest Score Dark" width="150" height="250">
+<img src="/images/Quiz Highest Score Dark.jpg" alt="Quiz Highest Score Dark" width="150" height="250"></p>
 <p></p>
 
 <h3>Translator Screen</h3>
-<img src="/images/Translator.jpg" alt="Translator" width="150" height="250">
-<img src="/images/Translator Dark.jpg" alt="Translator Dark" width="150" height="250">
+<p><img src="/images/Translator.jpg" alt="Translator" width="150" height="250">
+<img src="/images/Translator Dark.jpg" alt="Translator Dark" width="150" height="250"></p>
 
 <p></p>
 
 <h3>Coutry Phrases Screen</h3>
-<img src="/images/Key Phrases.jpg" alt="Key Phrases" width="150" height="250">
+<p><img src="/images/Key Phrases.jpg" alt="Key Phrases" width="150" height="250">
 <img src="/images/Key Phrases Dark.jpg" alt="Key Phrases Dark" width="150" height="250">
 <img src="/images/Each Country Key Phrase.jpg" alt="Each Country Key Phrase" width="150" height="250" >
-<img src="/images/Each Country Key Phrase Dark.jpg" alt="Each Country Key Phrase Dark" width="150" height="250">
+<img src="/images/Each Country Key Phrase Dark.jpg" alt="Each Country Key Phrase Dark" width="150" height="250"></p>
 <p></p>
 
 <h3>Settings Screen</h3>
-<img src="/images/Settings Light Mode.jpg" alt="Settings Light Mode" width="150" height="250">
+<p><img src="/images/Settings Light Mode.jpg" alt="Settings Light Mode" width="150" height="250">
 <img src="/images/Settings Dark Mode.jpg" alt="Settings Dark Mode" width="150" height="250">
-<img src="/images/Facebook.jpg" alt="Facebook" width="150" height="250">
-<img src="/images/Github.jpg" alt="Github" width="150" height="250">
+<img src="/images/Facebook.jpg" alt="Facebook" width="150" height="250"></p>
+<p><img src="/images/Github.jpg" alt="Github" width="150" height="250">
 <img src="/images/Privacy Policy.jpg" alt="Privacy Policy" width="150" height="250">
-<img src="/images/Terms & Conditions.jpg" alt="Terms & Conditions" width="150" height="250">
+<img src="/images/Terms & Conditions.jpg" alt="Terms & Conditions" width="150" height="250"></p>
 <p></p>
 
 <h3>Exit Dialog Fragment</h3>
-<img src="/images/Exit Dialogue Message.jpg" alt="Exit Dialogue Message"width="150" height="250">
+<p><img src="/images/Exit Dialogue Message.jpg" alt="Exit Dialogue Message"width="150" height="250">
 <img src="/images/Exit Dialogue Message Dark.jpg" alt="Exit Dialogue Message Dark"width="150" height="250">
 <img src="/images/Exit Dialogue.jpg" alt="Exit Dialogue" width="150" height="250">
-<img src="/images/Exit Dialogue Dark.jpg" alt="Exit Dialogue Dark" width="150" height="250">
+<img src="/images/Exit Dialogue Dark.jpg" alt="Exit Dialogue Dark" width="150" height="250"></p>
 
 <p></p>
 
 <h3> Switch - Light & Dark Mode.</h3>
-<img src="/images/Settings Light Mode.jpg" alt="Settings Light Mode" width="150" height="250">
-<img src="/images/Settings Dark Mode.jpg" alt="Settings Dark Mode" width="150" height="250">
+<p><img src="/images/Settings Light Mode.jpg" alt="Settings Light Mode" width="150" height="250">
+<img src="/images/Settings Dark Mode.jpg" alt="Settings Dark Mode" width="150" height="250"></p>
 
 <p></p>
 
 <h3>Adaptive Launcher</h3>
-<img src="/images/Adaptive Launcher.jpg" alt="Adaptive Launcher" width="150" height="250">
+<p><img src="/images/Adaptive Launcher.jpg" alt="Adaptive Launcher" width="150" height="250">
 <img src="/images/Exit Dialogue.jpg" alt="Exit Dialogue" width="150" height="250">
-<img src="/images/Exit Dialogue Dark.jpg" alt="Exit Dialogue Dark" width="150" height="250">
+<img src="/images/Exit Dialogue Dark.jpg" alt="Exit Dialogue Dark" width="150" height="250"></p>
 <p></p>
 
 <h3>Localization</h3>
-<img src="/images/Localization English.jpg" alt="Localization English"width="150" height="250">
+<p><img src="/images/Localization English.jpg" alt="Localization English"width="150" height="250">
 <img src="/images/Localization Hindi.jpg" alt="Localization Hindi" width="150" height="250">
 <img src="/images/Localization Hindi 1.jpg" alt="Localization Hindi" width="150" height="250">
 <img src="/images/Localization Hindi 2.jpg" alt="Localization Hindi" width="150" height="250">
-<img src="/images/Localization Hindi 3.jpg" alt="Localization Hindi"width="150" height="250">
-<img src="/images/Localization Hindi 4.jpg" alt="Localization Hindi"width="150" height="250">
+<img src="/images/Localization Hindi 3.jpg" alt="Localization Hindi"width="150" height="250"></p>
+<p><img src="/images/Localization Hindi 4.jpg" alt="Localization Hindi"width="150" height="250">
 <img src="/images/Localization Hindi 5.jpg" alt="Localization Hindi"width="150" height="250">
 <img src="/images/Localization Portugese.jpg" alt="Localization Potugese"width="150" height="250">
 <img src="/images/Localization Potugese 1.jpg" alt=Localization Potugese" width="150" height="250">
-<img src="/images/Localization Potugese 2.jpg" alt=Localization Potugese" width="150" height="250">
-<img src="/images/Localization Potugese 3.jpg" alt=Localization Potugese"width="150" height="250">
+<img src="/images/Localization Potugese 2.jpg" alt=Localization Potugese" width="150" height="250"></p>
+<p><img src="/images/Localization Potugese 3.jpg" alt=Localization Potugese"width="150" height="250">
 <img src="/images/Localization Potugese 4.jpg" alt=Localization Potugese" width="150" height="250">
-<img src="/images/Localization Potugese 5.jpg" alt=Localization Potugese"width="150" height="250">
+<img src="/images/Localization Potugese 5.jpg" alt=Localization Potugese"width="150" height="250"></p>
 <p></p>
 
 <br><br>
