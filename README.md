@@ -6,13 +6,117 @@
 <h2><a href="https://otago-polytechnic-bit-courses.github.io/mobile-app-dev-s1-21-project-SABISINGH/">Travel Earth Privacy Policy</a></h2>
 <h2><a href="https://www.websitepolicies.com/policies/view/qBaLNp64">Travel Earth Terms & Conditions</a></h2>
 <h2>Step-by-step user guide detailing each screen.</h2>
+
+<h3>Splash Screen</h3>
+<img src="/images/Splash Screen.png" alt="Splash Screen">
+<p>Travel Earth application starts with splash screen. Image above is the splash screen working when user open the Travel Earth app. Splash screen has an ImageView & transition animation. The transition animation is a custom animation XML file. In addition I have added a plane sound to the splash screen with the use of MediaPlayer. So basically when splash screen is running there is a background music playing.</p>
+
+<h3>Home Screen</h3>
+<img src="/images/Home Page Light Mode.jpg" alt="Home Page Light Mode">
+<img src="/images/Home Page Dark Mode.jpg" alt="Home Page Dark Mode">
 <p></p>
 
+<h3>Bottom Navigation View</h3>
+<img src="/images/Home Page Light Mode.jpg" alt="Home Page Light Mode">
+<img src="/images/Home Page Dark Mode.jpg" alt="Home Page Dark Mode">
+<img src="/images/Quiz Results.jpg" alt="Quiz Results">
+<img src="/images/Quiz Results Dark.jpg" alt="Quiz Results Dark">
+<img src="/images/" alt="">
+<img src="/images/" alt="">
+<img src="/images/" alt="">
+<img src="/images/" alt="">
+<p></p>
 
+<h3>Google Maps Showing Top Tourists Attractions</h3>
+<img src="/images/Map Showing Tourist Attractions.jpg" alt="Map Showing Tourist Attractions">
+<img src="/images/Map Showing Tourist Attractions 1.jpg" alt="">
+<img src="/images/Map Showing Tourist Attractions 2.jpg" alt="">
+<img src="/images/Map Showing Tourist Attractions 3.jpg" alt="">
+<img src="/images/Map Showing Tourist Attractions 4.jpg" alt="">
+<img src="/images/Attraction Details.jpg" alt="Attraction Details">
+<img src="/images/Change Map Style.jpg" alt="Change Map Style">
+<img src="/images/Change Map Style New.jpg" alt="Change Map Style New.jpg">
+<p></p>
 
+<h3>Interactive Quiz</h3>
+<img src="/images/Quiz.jpg" alt="Quiz">
+<img src="/images/Quiz Dark.jpg" alt="Quiz Dark">
+<img src="/images/Quiz Start.jpg" alt="Quiz Start">
+<img src="/images/Quiz Start Dark.jpg" alt="Quiz Start Dark">
+<img src="/images/Quiz Right Answer.jpg" alt="Quiz Right Answer">
+<img src="/images/Quiz Right Answer Dark.jpg" alt="Quiz Right Answer Dark">
+<img src="/images/Quiz Wrong Answer.jpg" alt="Quiz Wrong Answer">
+<img src="/images/Quiz Wrong Answer Dark.jpg" alt="Quiz Wrong Answer Dark">
+<img src="/images/Quiz Results.jpg" alt="Quiz Results">
+<img src="/images/Quiz Results Dark.jpg" alt="Quiz Results Dark">
+<img src="/images/Quiz Highest Score.jpg" alt="Quiz Highest Score">
+<img src="/images/Quiz Highest Score Dark.jpg" alt="Quiz Highest Score Dark">
+<p></p>
 
+<h3>Translator Screen</h3>
+<img src="/images/Translator.jpg" alt="Translator">
+<img src="/images/Translator Dark.jpg" alt="Translator Dark">
+<img src="/images/" alt="">
+<img src="/images/" alt="">
+<img src="/images/" alt="">
+<img src="/images/" alt="">
+<img src="/images/" alt="">
+<img src="/images/" alt="">
+<p></p>
 
+<h3>Coutry Phrases Screen</h3>
+<img src="/images/Key Phrases.jpg" alt="Key Phrases">
+<img src="/images/Key Phrases Dark.jpg" alt="Key Phrases Dark">
+<img src="/images/Each Country Key Phrase.jpg" alt="Each Country Key Phrase">
+<img src="/images/Each Country Key Phrase Dark.jpg" alt="Each Country Key Phrase Dark">
+<p></p>
 
+<h3>Settings Screen</h3>
+<img src="/images/Settings Light Mode.jpg" alt="Settings Light Mode">
+<img src="/images/Settings Dark Mode.jpg" alt="Settings Dark Mode">
+<img src="/images/Facebook.jpg" alt="Facebook">
+<img src="/images/Github.jpg" alt="Github">
+<img src="/images/Privacy Policy.jpg" alt="Privacy Policy">
+<img src="/images/Terms & Conditions.jpg" alt="Terms & Conditions">
+<p></p>
+
+<h3>Exit Dialog Fragment</h3>
+<img src="/images/Exit Dialogue Message.jpg" alt="Exit Dialogue Message">
+<img src="/images/Exit Dialogue Message Dark.jpg" alt="Exit Dialogue Message Dark">
+<img src="/images/Exit Dialogue.jpg" alt="Exit Dialogue">
+<img src="/images/Exit Dialogue Dark.jpg" alt="Exit Dialogue Dark">
+
+<p></p>
+
+<h3> Switch - Light & Dark Mode.</h3>
+<img src="/images/Settings Light Mode.jpg" alt="Settings Light Mode">
+<img src="/images/Settings Dark Mode.jpg" alt="Settings Dark Mode">
+
+<p></p>
+
+<h3>Adaptive Launcher</h3>
+<img src="/images/Adaptive Launcher.jpg" alt="Adaptive Launcher">
+<img src="/images/Exit Dialogue.jpg" alt="Exit Dialogue">
+<img src="/images/Exit Dialogue Dark.jpg" alt="Exit Dialogue Dark">
+<p></p>
+
+<h3>Localization</h3>
+<img src="/images/Localization English.jpg" alt="Localization English">
+<img src="/images/Localization Hindi.jpg" alt="Localization Hindi">
+<img src="/images/Localization Hindi 1.jpg" alt="Localization Hindi">
+<img src="/images/Localization Hindi 2.jpg" alt="Localization Hindi">
+<img src="/images/Localization Hindi 3.jpg" alt="Localization Hindi">
+<img src="/images/Localization Hindi 4.jpg" alt="Localization Hindi">
+<img src="/images/Localization Hindi 5.jpg" alt="Localization Hindi">
+<img src="/images/Localization Portugese.jpg" alt="Localization Potugese">
+<img src="/images/Localization Potugese 1.jpg" alt=Localization Potugese">
+<img src="/images/Localization Potugese 2.jpg" alt=Localization Potugese">
+<img src="/images/Localization Potugese 3.jpg" alt=Localization Potugese">
+<img src="/images/Localization Potugese 4.jpg" alt=Localization Potugese">
+<img src="/images/Localization Potugese 5.jpg" alt=Localization Potugese">
+<p></p>
+
+<br><br>
 <h2>Resources</h2>
 <h4><a href="https://www.flaticon.com/free-icon/travelling_1748778?term=travelling&page=2&position=47&page=2&position=47&related_id=1748778&origin=search">Flaticon - For icons</a></h4>
 <h4>For Free Images - <a href="https://www.pexels.com">Pexels</a> and <a href="https://pixabay.com">Pixabay</a></h4>
@@ -33,24 +137,5 @@
 <h4><a href="https://www.freeprivacypolicy.com/">Free Privacy Policy Generator</a></h4>
 <h4><a href="https://www.youtube.com/watch?v=b21fiIyOW4A&t=4168s">Build a Complete Quiz App for Android from Scratch Using Kotlin and Android Studio</a></h4>
 <h4>Room Database - <a href="https://www.youtube.com/watch?v=lwAvI3WDXBY&t=1s">Room Database - Create Database Schema</a> and <a href="https://www.youtube.com/watch?v=UBCAWfztTrQ&t=29s">Room Database - Insert Data</a> and <a href="https://www.youtube.com/watch?v=3USvr1Lz8g8&t=38s">ROOM Database - Read Data</a></h4>
-<h4><a href="https://www.youtube.com/watch?v=bLUXfWkZMD8">COUNTDOWN TIMER - Multiple Choice Quiz App</a></h4>
+<h4><a href="https://www.youtube.com/watch?v=bLUXfWkZMD8">Countdown Timer - Multiple Choice Quiz App</a></h4>
 <h4><a href="https://www.youtube.com/watch?v=zmjfAcnosS0">Simple Countdown Timer - Android Studio</a></h4>
-<h4><a href=""></a></h4>
-<h4><a href=""></a></h4>
-<h4><a href=""></a></h4>
-<h4><a href=""></a></h4>
-<h4><a href=""></a></h4>
-<h4><a href=""></a></h4>
-<h4><a href=""></a></h4>
-<h4><a href=""></a></h4>
-<h4><a href=""></a></h4>
-<h4><a href=""></a></h4>
-
-
-
-
-
-
-
-<h2></h2>
-<p></p>
