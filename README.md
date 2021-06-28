@@ -27,8 +27,8 @@
 <p><img src="/images/Map Showing Tourist Attractions.jpg" alt="Map Showing Tourist Attractions" width="150" height="250">
 <img src="/images/Map Showing Tourist Attractions 1.jpg" alt="Map Showing Tourist Attractions" width="150" height="250">
 <img src="/images/Map Showing Tourist Attractions 2.jpg" alt="Map Showing Tourist Attractions" width="150" height="250">
-<img src="/images/Map Showing Tourist Attractions 3.jpg" alt="Map Showing Tourist Attractions" width="150" height="250">
-<p><img src="/images/Map Showing Tourist Attractions 4.jpg" alt="Map Showing Tourist Attractions" width="150" height="250"></p>
+<img src="/images/Map Showing Tourist Attractions 3.jpg" alt="Map Showing Tourist Attractions" width="150" height="250"></p>
+<p><img src="/images/Map Showing Tourist Attractions 4.jpg" alt="Map Showing Tourist Attractions" width="150" height="250">
 <img src="/images/Attraction Details.jpg" alt="Attraction Details" width="150" height="250">
 <img src="/images/Change Map Style.jpg" alt="Change Map Style" width="150" height="250">
 <img src="/images/Change Map Style New.jpg" alt="Change Map Style New.jpg" width="150" height="250"></p>
@@ -38,14 +38,14 @@
 <p><img src="/images/Quiz.jpg" alt="Quiz" width="150" height="250">
 <img src="/images/Quiz Dark.jpg" alt="Quiz Dark" width="150" height="250">
 <img src="/images/Quiz Start.jpg" alt="Quiz Start" width="150" height="250">
-<img src="/images/Quiz Start Dark.jpg" alt="Quiz Start Dark" width="150" height="250"></p>
-<p><img src="/images/Quiz Right Answer.jpg" alt="Quiz Right Answer" width="150" height="250">
-<img src="/images/Quiz Right Answer Dark.jpg" alt="Quiz Right Answer Dark" width="150" height="250">
+<img src="/images/Quiz Start Dark.jpg" alt="Quiz Start Dark" width="150" height="250">
+<img src="/images/Quiz Right Answer.jpg" alt="Quiz Right Answer" width="150" height="250"></p>
+<p><img src="/images/Quiz Right Answer Dark.jpg" alt="Quiz Right Answer Dark" width="150" height="250">
 <img src="/images/Quiz Wrong Answer.jpg" alt="Quiz Wrong Answer" width="150" height="250">
-<img src="/images/Quiz Wrong Answer Dark.jpg" alt="Quiz Wrong Answer Dark" width="150" height="250"></p>
-<p><img src="/images/Quiz Results.jpg" alt="Quiz Results" width="150" height="250">
-<img src="/images/Quiz Results Dark.jpg" alt="Quiz Results Dark" width="150" height="250">
-<img src="/images/Quiz Highest Score.jpg" alt="Quiz Highest Score" width="150" height="250">
+<img src="/images/Quiz Wrong Answer Dark.jpg" alt="Quiz Wrong Answer Dark" width="150" height="250">
+<img src="/images/Quiz Results.jpg" alt="Quiz Results" width="150" height="250">
+<img src="/images/Quiz Results Dark.jpg" alt="Quiz Results Dark" width="150" height="250"></p>
+<p><img src="/images/Quiz Highest Score.jpg" alt="Quiz Highest Score" width="150" height="250">
 <img src="/images/Quiz Highest Score Dark.jpg" alt="Quiz Highest Score Dark" width="150" height="250"></p>
 <p></p>
 
