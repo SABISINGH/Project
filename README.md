@@ -12,15 +12,15 @@
 <p>Travel Earth application starts with splash screen. Image above is the splash screen working when user open the Travel Earth app. Splash screen has an ImageView & transition animation. The transition animation is a custom animation XML file. In addition I have added a plane sound to the splash screen with the use of MediaPlayer. So basically when splash screen is running there is a background music playing.</p>
 
 <h3>Home Screen</h3>
-<img src="/images/Home Page Light Mode.jpg" alt="Home Page Light Mode" width="150" height="250">
-<img src="/images/Home Page Dark Mode.jpg" alt="Home Page Dark Mode" width="150" height="250">
+<p><img src="/images/Home Page Light Mode.jpg" alt="Home Page Light Mode" width="150" height="250">
+<img src="/images/Home Page Dark Mode.jpg" alt="Home Page Dark Mode" width="150" height="250"></p>
 <p></p>
 
 <h3>Bottom Navigation View</h3>
-<img src="/images/Home Page Light Mode.jpg" alt="Home Page Light Mode" width="150" height="250">
+<p><img src="/images/Home Page Light Mode.jpg" alt="Home Page Light Mode" width="150" height="250">
 <img src="/images/Home Page Dark Mode.jpg" alt="Home Page Dark Mode" width="150" height="250">
 <img src="/images/Quiz Results.jpg" alt="Quiz Results" width="150" height="250">
-<img src="/images/Quiz Results Dark.jpg" alt="Quiz Results Dark" width="150" height="250">
+<img src="/images/Quiz Results Dark.jpg" alt="Quiz Results Dark" width="150" height="250"></p>
 <p></p>
 
 <h3>Google Maps Showing Top Tourists Attractions</h3>
