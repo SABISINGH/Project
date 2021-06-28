@@ -52,7 +52,6 @@
 <h3>Translator Screen</h3>
 <p><img src="/images/Translator.jpg" alt="Translator" width="150" height="250">
 <img src="/images/Translator Dark.jpg" alt="Translator Dark" width="150" height="250"></p>
-
 <p></p>
 
 <h3>Coutry Phrases Screen</h3>
@@ -65,10 +64,10 @@
 <h3>Settings Screen</h3>
 <p><img src="/images/Settings Light Mode.jpg" alt="Settings Light Mode" width="150" height="250">
 <img src="/images/Settings Dark Mode.jpg" alt="Settings Dark Mode" width="150" height="250">
-<img src="/images/Facebook.jpg" alt="Facebook" width="150" height="250"></p>
-<p><img src="/images/Github.jpg" alt="Github" width="150" height="250">
-<img src="/images/Privacy Policy.jpg" alt="Privacy Policy" width="150" height="250">
-<img src="/images/Terms & Conditions.jpg" alt="Terms & Conditions" width="150" height="250"></p>
+<img src="/images/Facebook.jpg" alt="Facebook" width="150" height="250">
+<img src="/images/Github.jpg" alt="Github" width="150" height="250">
+<img src="/images/Privacy Policy.jpg" alt="Privacy Policy" width="150" height="250"></p>
+<p><img src="/images/Terms & Conditions.jpg" alt="Terms & Conditions" width="150" height="250"></p>
 <p></p>
 
 <h3>Exit Dialog Fragment</h3>
