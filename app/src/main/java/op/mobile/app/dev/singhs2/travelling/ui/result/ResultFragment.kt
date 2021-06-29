@@ -17,7 +17,10 @@ import op.mobile.app.dev.singhs2.travelling.roomDatabase.User
 import op.mobile.app.dev.singhs2.travelling.roomDatabase.UserViewModel
 
 /**
- * Class ResultFragment -
+ * Class ResultFragment - Initialise variables. Loads the score to the result view. By clicking
+ * Finish button user will be directed to home page. User will be taken to the highest score page
+ * which will display the highest scores stored in the room database. Function
+ * insertDataToDatabase - Adds final score to the room database on the Highest score page.
  */
 class ResultFragment : Fragment() {
     // variables

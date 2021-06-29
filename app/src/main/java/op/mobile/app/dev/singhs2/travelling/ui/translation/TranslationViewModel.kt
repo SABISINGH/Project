@@ -12,6 +12,11 @@ import op.mobile.app.dev.singhs2.travelling.model.Yandex
 import op.mobile.app.dev.singhs2.travelling.service.ServiceInstance
 import op.mobile.app.dev.singhs2.travelling.service.ServiceStatus
 
+/**
+ * TranslationViewModel - declaring the yandexTranslateUrl url and assigning the status of
+ * MutableLiveData<ServiceStatus>. Getting the response MutableLiveData<Yandex>. viewModelScope
+ * then launches the translation activity by using the retrofitYandexService.
+ */
 class TranslationViewModel : ViewModel() {
     private val yandexTranslateUrl = "https://translate.yandex.net/api/v1.5/tr.json/"
     private val _status = MutableLiveData<ServiceStatus>()

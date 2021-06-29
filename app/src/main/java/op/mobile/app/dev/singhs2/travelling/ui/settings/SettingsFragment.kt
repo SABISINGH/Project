@@ -22,7 +22,11 @@ import op.mobile.app.dev.singhs2.travelling.R.id.*
 /**
  * Class SettingsFragment - This class will be displaying the facebook, github external link. Extra
  * feature. Also I am loading my privacy policy and terms & conditions on this page. I have also
- * added a toggle switch which will be changing the theme to light mode / dark mode.
+ * added a toggle switch which will be changing the theme to light mode / dark mode. In the
+ * onCreateView function I am setting up the light mode and dark mode theme. If/Else checks the
+ * toggle switch is in dark mode or light mode. Using shared preference if the check is true then
+ * apply the dark mode (MODE_NIGHT_YES) and if the check is false then don't apply the dark
+ * mode (MODE_NIGHT_NO). Further Buttons - to take the user to the specific need.
  */
 class SettingsFragment : Fragment() {
     // variables

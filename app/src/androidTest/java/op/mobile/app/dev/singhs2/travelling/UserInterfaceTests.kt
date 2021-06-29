@@ -12,6 +12,7 @@ import androidx.test.espresso.matcher.ViewMatchers.withText
 import androidx.test.ext.junit.rules.ActivityScenarioRule
 import androidx.test.ext.junit.runners.AndroidJUnit4
 import it.xabaras.android.espresso.recyclerviewchildactions.RecyclerViewChildActions.Companion.childOfViewAtPositionWithMatcher
+import op.mobile.app.dev.singhs2.travelling.ui.mainActivity.MainActivity
 import org.junit.Before
 import org.junit.Rule
 import org.junit.Test

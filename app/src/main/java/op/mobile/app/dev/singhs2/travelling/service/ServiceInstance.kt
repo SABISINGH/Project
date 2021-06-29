@@ -6,9 +6,6 @@ package op.mobile.app.dev.singhs2.travelling.service
 import retrofit2.Retrofit
 import retrofit2.converter.gson.GsonConverterFactory
 
-/**
- * Declaring private vala nd assigning website link through string.
- */
 //private const val BASE_URL = "https://gist.githubusercontent.com/"
 
 /**

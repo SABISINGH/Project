@@ -18,7 +18,9 @@ import op.mobile.app.dev.singhs2.travelling.service.ServiceAdapter
 import op.mobile.app.dev.singhs2.travelling.ui.quiz.IOnClickListener
 
 /**
- * PhrasesFragment class to display the country's key phrases.
+ * PhrasesFragment class to display the country's key phrases. onItemClick function - Here
+ * whichever country is selected by the use this function will load the phrases for that
+ * given country.
  */
 class PhrasesFragment : Fragment(), IOnClickListener {
     private lateinit var viewModel: PhrasesViewModel

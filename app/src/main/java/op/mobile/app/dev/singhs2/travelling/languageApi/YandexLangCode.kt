@@ -1,5 +1,9 @@
 package op.mobile.app.dev.singhs2.travelling.languageApi
 
+/**
+ * YandexLangCode - used for translator. Language is translated from english to
+ * each specific country language using Yandex.
+ */
 class YandexLangCode {
     fun YandexLangCode(lang: String): String{
         return when(lang) {

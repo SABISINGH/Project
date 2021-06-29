@@ -12,7 +12,11 @@ import op.mobile.app.dev.singhs2.travelling.R
 import op.mobile.app.dev.singhs2.travelling.roomDatabase.User
 
 /**
- * Class ListAdapter - RecyclerView Adapter.
+ * Class ListAdapter - RecyclerView Adapter. Function onCreateViewHolder - returns the view of
+ * the highest score. Function onBindViewHolder - positions the userList to get the current item.
+ * Displays the score on the custom raw page(highest score). function getItemCount - Return the
+ * size of the list. Function setData - Set the text view text with the current item, set the
+ * user list with the value passed through parameter.
  */
 class ListAdapter : RecyclerView.Adapter<ListAdapter.MyViewHolder>() {
     // Variables

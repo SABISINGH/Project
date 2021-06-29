@@ -10,7 +10,11 @@ import androidx.lifecycle.viewModelScope
 import kotlinx.coroutines.Dispatchers
 import kotlinx.coroutines.launch
 
-
+/**
+ * UserViewModel - To access all our queries from Dao. To provide data to the UI and
+ * survive configuration changes. It acts as a communication center between
+ * the Repository and the UI.
+ */
 class UserViewModel(application: Application): AndroidViewModel(application) {
 
     val readAllData: LiveData<List<User>>

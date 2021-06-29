@@ -7,7 +7,7 @@ import androidx.room.Entity
 import androidx.room.PrimaryKey
 /**
  * user data class - Using @Entity annotation and creating the quiz_score
- * table to store the highest score data.
+ * table within the database to store the highest score data.
  * @PrimaryKey - makes sure the entry is auto generated to void any entry conflicts
  * and then storing the data
  */

@@ -16,7 +16,7 @@ import op.mobile.app.dev.singhs2.travelling.databinding.QuizFragmentBinding
 import op.mobile.app.dev.singhs2.travelling.service.ServiceAdapter
 
 /**
- * Class QuizFragment is loading the quiz.
+ * Class QuizFragment is loading the quiz. Fun onItemClick - to bind the value to quiz_fragment.xml
  */
 class QuizFragment : Fragment(), IOnClickListener {
     private lateinit var viewModel: QuizViewModel

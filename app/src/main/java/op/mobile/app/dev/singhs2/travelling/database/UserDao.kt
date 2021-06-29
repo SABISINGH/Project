@@ -8,6 +8,9 @@ import androidx.room.Dao
 import androidx.room.Insert
 import androidx.room.Query
 
+/**
+ * Data Access Object (Dao) - Contains the methods used to access the database.
+ */
 @Dao
 interface UserDao {
 

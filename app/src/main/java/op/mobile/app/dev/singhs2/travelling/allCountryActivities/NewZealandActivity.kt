@@ -1,5 +1,8 @@
 package op.mobile.app.dev.singhs2.travelling.allCountryActivities
 
+/**
+ * Imports to migrate library and project dependencies.
+ */
 import android.content.Context
 import android.content.SharedPreferences
 import androidx.appcompat.app.AppCompatActivity
@@ -13,16 +16,15 @@ import op.mobile.app.dev.singhs2.travelling.adapter.ItemAdapter
 import op.mobile.app.dev.singhs2.travelling.data.DatasourceNewZealand
 
 /**
- * Imports to migrate library and project dependencies.
+ * Declaring shared preferences for night mode and checking the theme style checked.
+ * Declaring shared preferences for night mode and checking the theme style checked.
+ * Initialize data.
  */
 class NewZealandActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(activity_new_zealand)
 
-        /**
-         * Declaring shared preferences for night mode and checking the theme style checked.
-         */
         lateinit var sharedPreference: SharedPreferences
         sharedPreference = this.getSharedPreferences("darkMode", Context.MODE_PRIVATE)!!
         val isDarkMode: Boolean =

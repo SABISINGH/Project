@@ -16,7 +16,9 @@ import op.mobile.app.dev.singhs2.travelling.adapter.ItemAdapter
 import op.mobile.app.dev.singhs2.travelling.data.DatasourceArgentina
 
 /**
- * Argentina Activity
+ * Argentina Activity.
+ * Declaring shared preferences for night mode and checking the theme style checked.
+ * Initialize data.
  */
 class ArgentinaActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {

@@ -13,7 +13,7 @@ import op.mobile.app.dev.singhs2.travelling.R
 import op.mobile.app.dev.singhs2.travelling.model.KeyPhrasesTest
 
 /**
- * Adapter for the [RecyclerView] in [MainActivity]. Displays [KeyPhrasesTest] data object.
+ * Adapter for the RecyclerView in MainActivity. Displays KeyPhrasesTest data object.
  */
 class ItemAdapter(
     private val context: Context,

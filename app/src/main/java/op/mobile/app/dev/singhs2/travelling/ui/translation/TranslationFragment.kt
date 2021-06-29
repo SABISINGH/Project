@@ -16,6 +16,12 @@ import android.widget.Toast
 import androidx.lifecycle.ViewModelProvider
 import op.mobile.app.dev.singhs2.travelling.R
 
+/**
+ * TranslationFragment - Initialise variables. Generate findViewById for translator button,
+ * speech button and spinner. Then Create an ArrayAdapter using the string array and a default
+ * spinner layout. Specify the layout to use when the list of choices appears and then Apply the
+ * adapter to the spinner.
+ */
 class TranslationFragment : Fragment() {
 
     private lateinit var viewModel: TranslationViewModel

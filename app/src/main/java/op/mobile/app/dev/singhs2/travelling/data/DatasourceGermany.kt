@@ -7,7 +7,7 @@ import op.mobile.app.dev.singhs2.travelling.R
 import op.mobile.app.dev.singhs2.travelling.model.KeyPhrasesTest
 
 /**
- * Loading key phrases data in List for Germany.
+ * Loading key phrases data in List<KeyPhrasesTest> for Germany.
  */
 class DatasourceGermany {
     fun loadTest(): List<KeyPhrasesTest> {

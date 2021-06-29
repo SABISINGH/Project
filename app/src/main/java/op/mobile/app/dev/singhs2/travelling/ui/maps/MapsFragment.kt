@@ -12,6 +12,9 @@ import androidx.lifecycle.ViewModelProvider
 import op.mobile.app.dev.singhs2.travelling.R
 import op.mobile.app.dev.singhs2.travelling.R.layout.maps_fragment
 
+/**
+ * MapsFragment - Initialising the map and creating the map fragment.
+ */
 class MapsFragment : Fragment() {
     private lateinit var viewModel: MapsViewModel
 

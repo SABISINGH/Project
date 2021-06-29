@@ -19,6 +19,12 @@ import op.mobile.app.dev.singhs2.travelling.R
 import op.mobile.app.dev.singhs2.travelling.R.raw.map_style_dark
 import op.mobile.app.dev.singhs2.travelling.R.raw.map_style_retro
 
+/**
+ * MapsActivity is to load the maps. It has function to load map data(creating cluster,
+ * and marking cluster). Function that changes the map style. Function to check (if - else)
+ * the map style (map_style_retro & map_style_dark). Also displaying Toast message if something
+ * went wrong.
+ */
 class MapsActivity : AppCompatActivity(), OnMapReadyCallback {
     lateinit var nMap: GoogleMap
     var isChangeStyle = false

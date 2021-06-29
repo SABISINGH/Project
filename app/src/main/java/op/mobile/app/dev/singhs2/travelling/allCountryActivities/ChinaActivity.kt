@@ -17,6 +17,8 @@ import op.mobile.app.dev.singhs2.travelling.data.DatasourceChina
 
 /**
  * China Activity
+ * Declaring shared preferences for night mode and checking the theme style checked.
+ * Initialize data.
  */
 class ChinaActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {

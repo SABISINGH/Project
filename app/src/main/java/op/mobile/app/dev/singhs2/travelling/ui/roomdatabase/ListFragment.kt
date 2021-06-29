@@ -16,7 +16,9 @@ import op.mobile.app.dev.singhs2.travelling.R
 import op.mobile.app.dev.singhs2.travelling.roomDatabase.UserViewModel
 
 /**
- * Class ListFragment -
+ * Class ListFragment - Initialise Variables. Inflate the layout for this fragment.
+ * Recyclerview created with adaptor. initialise userViewModel - adapter set the data to
+ * the new value if there is a data change.
  */
 class ListFragment : Fragment() {
     // Variables

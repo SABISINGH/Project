@@ -8,6 +8,9 @@ import androidx.lifecycle.LiveData
 import androidx.lifecycle.MutableLiveData
 import androidx.lifecycle.ViewModel
 
+/**
+ * View Model to capture data for Map.
+ */
 class MapsViewModel : ViewModel() {
     private val mutableSelectedItem = MutableLiveData<ClipData.Item>()
     val selectedItem: LiveData<ClipData.Item> get() = mutableSelectedItem

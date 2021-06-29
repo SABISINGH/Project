@@ -22,7 +22,9 @@ import op.mobile.app.dev.singhs2.travelling.databinding.FragmentQuizGameBinding
  * the data. If the selected answer is correct/incorrect toast message displays to the
  * UI of the outcome.  With addQuestionIdx we load to the next question and also check
  * if the user actually selected an answer and that not skipping to next question with
- * toast message again.
+ * toast message again. Assigning the first answer to be correct and then checking
+ * what is selected by the user. Also adding up score. Displaying correct/incorrect answer.
+ * set question and add the score. Also checking the selection.
  */
 class QuizGameFragment : Fragment() {
     private lateinit var viewModel: QuizGameViewModel

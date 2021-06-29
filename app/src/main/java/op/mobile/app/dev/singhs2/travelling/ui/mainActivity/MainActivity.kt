@@ -1,4 +1,4 @@
-package op.mobile.app.dev.singhs2.travelling
+package op.mobile.app.dev.singhs2.travelling.ui.mainActivity
 
 /**
  * Imports to migrate library and project dependencies.
@@ -15,11 +15,17 @@ import androidx.navigation.ui.AppBarConfiguration
 import androidx.navigation.ui.setupActionBarWithNavController
 import androidx.navigation.ui.setupWithNavController
 import com.google.android.material.bottomnavigation.BottomNavigationView
+import op.mobile.app.dev.singhs2.travelling.R
 import op.mobile.app.dev.singhs2.travelling.R.drawable.travelearth
 
 /**
  * MainActivity - This is the main page of the app. Usr have bottom screen navigation and also
- * 5 buttons (Maps, Quiz, Translation, Key Phrases and Settings) to chose from.
+ * 5 buttons (Maps, Quiz, Translation, Key Phrases and Settings) to chose from. Then Calling dark
+ * mode check using shared preferences. onBackPressed - This is exit method for the app.
+ * If user click on the back button a toast message will advise user to click twice if they
+ * would like to exit. If user click twice within the (pressTime + 1000) a toast message will
+ * ask the user if they want to exit or not. If pressed yes the app will close but is pressed no
+ * it will take the user to the screen they were on.
  */
 @Suppress("DEPRECATION")
 class MainActivity : AppCompatActivity() {
@@ -64,7 +70,7 @@ class MainActivity : AppCompatActivity() {
      * onBackPressed - This is exit method for the app. If user click on the back button
      * a toast message will advise user to click twice if they would like to exit. If user click twice
      * within the (pressTime + 1000) a toast message will ask the user if they want to exit or not.
-     * If pressed yes the app will close but is pressed no it willt ake the user to the screen they were
+     * If pressed yes the app will close but is pressed no it will take the user to the screen they were
      * on.
      */
     override fun onBackPressed() {

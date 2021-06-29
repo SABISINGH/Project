@@ -14,6 +14,15 @@ import op.mobile.app.dev.singhs2.travelling.model.Quiz
 
 /**
  * Class QuizGameViewModel - responsible for the quiz functionality.
+ * Function startTimer - setting the time of thirty seconds for each question.
+ * Function onFinish - adding the question and then loading the new question. Then resetting the
+ * timer back to thirty seconds. Then the method will be called when this ViewModel is no longer
+ * used and will be destroyed. Timer will also be cancelled. Assigning the value to the timer.
+ * Each answer the user is allowed only thirty seconds. Fun addQuestionIdx - Adding questions
+ * value. Once user submitted the answer we will then load new question and image for the question.
+ * Timer is cancelled. Adds the score of the particular quiz. The we are setting up new question
+ * with new answer values. The answers will be shuffles every time the new quiz gets loaded and
+ * also the start the timer with thirty seconds limit.
  */
 class QuizGameViewModel(_country: GitHubCountries) : ViewModel() {
 
