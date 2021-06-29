@@ -240,4 +240,21 @@
     <string name="result">Final Result</string>
     <string name="country_quiz_game">"Country Quiz Game"</string>
 
+    <!--    Spinner for language translation-->
+    <string-array name="languages_array">
+        <item>Spanish</item>
+        <item>Portuguese</item>
+        <item>Hindi</item>
+        <item>Arabic</item>
+        <item>German</item>
+        <item>Punjabi</item>
+        <item>Chinese</item>
+        <item>Russian</item>
+        <item>French</item>
+        <item>Japanese</item>
+        <item>Korean</item>
+        <item>Italian</item>
+        <item>Bengal</item>
+    </string-array>
+
 </resources>

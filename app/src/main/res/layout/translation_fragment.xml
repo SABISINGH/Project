@@ -33,6 +33,7 @@
             android:orientation="horizontal">
 
             <Spinner
+                android:id="@+id/translationSpinner"
                 android:layout_width="wrap_content"
                 android:layout_height="match_parent"
                 android:layout_marginStart="1dp" />
@@ -49,6 +50,7 @@
                 tools:ignore="NestedWeights" />
 
             <Button
+                android:id="@+id/entSpeech"
                 android:layout_width="wrap_content"
                 android:layout_height="match_parent"
                 android:layout_marginStart="@dimen/margin_4"

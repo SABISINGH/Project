@@ -9,7 +9,7 @@ import androidx.lifecycle.ViewModel
 import androidx.lifecycle.viewModelScope
 import kotlinx.coroutines.launch
 import op.mobile.app.dev.singhs2.travelling.model.GitHubCountries
-import op.mobile.app.dev.singhs2.travelling.service.ServiceInstance.retrofitService
+import op.mobile.app.dev.singhs2.travelling.service.ServiceInstance
 import op.mobile.app.dev.singhs2.travelling.service.ServiceStatus
 
 /**
@@ -18,6 +18,7 @@ import op.mobile.app.dev.singhs2.travelling.service.ServiceStatus
  * with the rest of the application.
  */
 class PhrasesViewModel : ViewModel() {
+    private val BASE_URL = "https://gist.githubusercontent.com/"
     private val _status = MutableLiveData<ServiceStatus>()
     val status: LiveData<ServiceStatus> get() = _status
 
@@ -28,7 +29,7 @@ class PhrasesViewModel : ViewModel() {
         viewModelScope.launch {
             _status.value = ServiceStatus.LOADING
             try {
-                _response.value = retrofitService.getResponse()
+                _response.value = ServiceInstance(BASE_URL).retrofitService.getResponse()
                 _status.value = ServiceStatus.COMPLETE
             } catch (e: Exception) {
                 _response.value = ArrayList()

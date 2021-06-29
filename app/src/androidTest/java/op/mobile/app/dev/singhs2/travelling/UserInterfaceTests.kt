@@ -140,12 +140,6 @@ class UserInterfaceTests {
     }
 
     @Test
-    fun checkQuizScreenArgentinaText() {
-        onView(withId(R.id.entQuiz)).perform(click())
-        onView(withId(R.id.rv_countries)).perform(RecyclerViewActions.scrollToPosition<RecyclerView.ViewHolder>(0))
-        onView(withId(R.id.rv_countries)).check(ViewAssertions.matches(childOfViewAtPositionWithMatcher(R.id.textView3, 0, withText(quizScreenArgentinaText))))
-    }
-    @Test
     fun checkQuizScreenGermanyText() {
         onView(withId(R.id.entQuiz)).perform(click())
         onView(withId(R.id.rv_countries)).perform(RecyclerViewActions.scrollToPosition<RecyclerView.ViewHolder>(6))

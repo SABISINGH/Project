@@ -15,6 +15,7 @@ data class GitHubCountries(
     val id: String,
     val name: String,
     val capital: String,
+    val language: String,
     val flagImg: String,
     val quiz: @RawValue List<Quiz>
 ) : Parcelable
