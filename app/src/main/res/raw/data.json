@@ -1,0 +1,530 @@
+[
+  {
+    "name": "Iguazu Falls, Iguazú National Park",
+    "city": "Misiones Province",
+    "location": {
+      "latitude": -25.695606,
+      "longitude": -54.536275
+    }
+  },
+  {
+    "name": "Perito Moreno Glacier, Los Glaciares National Park",
+    "city": "Santa Cruz Province",
+    "location": {
+      "latitude": -50.486226,
+      "longitude": -73.132399
+    }
+  },
+  {
+    "name": "Quebrada de Humahuaca",
+    "city": "Jujuy Province",
+    "location": {
+      "latitude": -23.098941,
+      "longitude": -65.332915
+    }
+  },
+  {
+    "name": "Sydney Opera House",
+    "city": "Sydney",
+    "location": {
+      "latitude": -33.856757,
+      "longitude": 151.215309
+    }
+  },
+  {
+    "name": "Museum of Tropical Queensland",
+    "city": "Townsville, QLD",
+    "location": {
+      "latitude": -19.257450,
+      "longitude": 146.822267
+    }
+  },
+  {
+    "name": "Uluru/Ayers Rock",
+    "city": "Northern Territory of Australia",
+    "location": {
+      "latitude": -25.344423,
+      "longitude": 131.038642
+    }
+  },
+  {
+    "name": "Christ the Redeemer",
+    "city": "Rio de Janeiro - RJ",
+    "location": {
+      "latitude": -22.951911,
+      "longitude": -43.210485
+    }
+  },
+  {
+    "name": "Museu do Teleférico",
+    "city": "Rio de Janeiro",
+    "location": {
+      "latitude": -22.949426,
+      "longitude": -43.156432
+    }
+  },
+  {
+    "name": "Museum of Art of São Paulo Assis Chateaubriand",
+    "city": "São Paulo - SP",
+    "location": {
+      "latitude": -23.561668,
+      "longitude": -46.655918
+    }
+  },
+  {
+    "name": "Museu do Amanhã",
+    "city": "Rio de Janeiro - RJ",
+    "location": {
+      "latitude": -22.894310,
+      "longitude": -43.179519
+    }
+  },
+  {
+    "name": "Amazon River",
+    "city": "Brazil",
+    "location": {
+      "latitude": -3.322620,
+      "longitude": -60.659183
+    }
+  },
+  {
+    "name": "Maracanã",
+    "city": "Rio de Janeiro",
+    "location": {
+      "latitude": -22.912029,
+      "longitude": -43.230128
+    }
+  },
+  {
+    "name": "Niagara Falls",
+    "city": "Ontario",
+    "location": {
+      "latitude": 43.083432,
+      "longitude": -79.073970
+    }
+  },
+  {
+    "name": "Prince of Wales Fort National Historic Site",
+    "city": "Churchill",
+    "location": {
+      "latitude": 58.797180,
+      "longitude": -94.213097
+    }
+  },
+  {
+    "name": "Toronto's CN Tower",
+    "city": "Toronto",
+    "location": {
+      "latitude": 43.642625,
+      "longitude": -79.387018
+    }
+  },
+  {
+    "name": "Whistler Mountain Peak Chair",
+    "city": "Vancouver, British Columbia",
+    "location": {
+      "latitude": 50.059237,
+      "longitude": -122.957923
+    }
+  },
+  {
+    "name": "Ottawa's Parliament Hill",
+    "city": "Ottawa",
+    "location": {
+      "latitude": 45.423602,
+      "longitude": -75.700920
+    }
+  },
+  {
+    "name": " Vancouver's Stanley Park",
+    "city": "Vancouver",
+    "location": {
+      "latitude": 49.304269,
+      "longitude": -123.144222
+    }
+  },
+  {
+    "name": "The Great Wall of China",
+    "city": "Beijing",
+    "location": {
+      "latitude": 40.4319010,
+      "longitude": 116.570384
+    }
+  },
+  {
+    "name": "The Forbidden City",
+    "city": "Beijing",
+    "location": {
+      "latitude": 39.916952,
+      "longitude": 116.390799
+    }
+  },
+  {
+    "name": "Emperor Qinshihuang's Mausoleum Site Museum",
+    "city": "Lintong District, Xi'an, Shaanxi",
+    "location": {
+      "latitude": 34.384145,
+      "longitude": 109.278526
+    }
+  },
+  {
+    "name": "The Summer Palace",
+    "city": "Beijing",
+    "location": {
+      "latitude": 39.999996,
+      "longitude": 116.275475
+    }
+  },
+  {
+    "name": "Crown Cave Scenic Spot",
+    "city": "Guilin",
+    "location": {
+      "latitude": 25.052118,
+      "longitude": 110.452333
+    }
+  },
+  {
+    "name": "Chengdu Panda Museum",
+    "city": "Chengdu",
+    "location": {
+      "latitude": 30.733589,
+      "longitude": 104.146466
+    }
+  },
+  {
+    "name": "The Jade Dragon Snow Mountains",
+    "city": "Lijiang",
+    "location": {
+      "latitude": 27.098343,
+      "longitude": 100.175008
+    }
+  },
+  {
+    "name": "The Mogao Caves",
+    "city": "Dunhuang",
+    "location": {
+      "latitude": 40.041473,
+      "longitude": 94.809139
+    }
+  },
+  {
+    "name": "Eiffel Tower",
+    "city": "Paris",
+    "location": {
+      "latitude": 48.858369,
+      "longitude": 2.294695
+    }
+  },
+  {
+    "name": "Musée du Louvre",
+    "city": "Paris",
+    "location": {
+      "latitude": 48.860609,
+      "longitude": 2.337645
+    }
+  },
+  {
+    "name": "Palace of Versailles",
+    "city": "Versailles",
+    "location": {
+      "latitude": 48.804866,
+      "longitude": 2.120366
+    }
+  },
+  {
+    "name": "Mont Saint-Michel",
+    "city": "Normandy",
+    "location": {
+      "latitude": 48.636014,
+      "longitude": -1.511101
+    }
+  },
+  {
+    "name": "Brama Brandenburska - Brandenburg Gate",
+    "city": "Berlin",
+    "location": {
+      "latitude": 52.516273,
+      "longitude": 13.377712
+    }
+  },
+  {
+    "name": "Cologne Cathedral (Kölner Dom)",
+    "city": "Cologne",
+    "location": {
+      "latitude": 50.941369,
+      "longitude": 6.958029
+    }
+  },
+  {
+    "name": "The Ultimate Fairytale Castle: Neuschwanstein",
+    "city": "Bavaria",
+    "location": {
+      "latitude": 47.557592,
+      "longitude": 10.749814
+    }
+  },
+  {
+    "name": "The Rebuilt Reichstag",
+    "city": "Berlin",
+    "location": {
+      "latitude": 52.518626,
+      "longitude": 13.376198
+    }
+  },
+  {
+    "name": "Berliner Schloss",
+    "city": "Berlin",
+    "location": {
+      "latitude": 52.516922,
+      "longitude": 13.400761
+    }
+  },
+  {
+    "name": "Berlin Wall Memorial",
+    "city": "Berlin",
+    "location": {
+      "latitude": 52.535060,
+      "longitude": 13.390193
+    }
+  },
+  {
+    "name": "Gendarmenmarkt",
+    "city": "Berlin",
+    "location": {
+      "latitude": 52.513737,
+      "longitude": 13.392679
+    }
+  },
+  {
+    "name": " Jewish Museum",
+    "city": "Berlin",
+    "location": {
+      "latitude": 52.502331,
+      "longitude": 13.395413
+    }
+  },
+  {
+    "name": "The Taj Mahal",
+    "city": "Agra",
+    "location": {
+      "latitude": 27.175095,
+      "longitude": 78.042070
+    }
+  },
+  {
+    "name": "Dasaswamedh Ghat",
+    "city": "Varanasi",
+    "location": {
+      "latitude": 25.306678,
+      "longitude": 83.010167
+    }
+  },
+  {
+    "name": "Harmandir Sahib: The Golden Temple",
+    "city": "Amritsar, Punjab",
+    "location": {
+      "latitude": 31.620006,
+      "longitude": 74.876458
+    }
+  },
+  {
+    "name": "Jaisalmer Fort",
+    "city": "Jaisalmer",
+    "location": {
+      "latitude": 26.912671,
+      "longitude": 70.912247
+    }
+  },
+  {
+    "name": "Gurudwara Bangla Sahib",
+    "city": "New Delhi",
+    "location": {
+      "latitude": 28.626531,
+      "longitude": 77.208966
+    }
+  },
+  {
+    "name": "The Gateway of India",
+    "city": "Mumbai",
+    "location": {
+      "latitude": 18.921987,
+      "longitude": 72.834656
+    }
+  },
+  {
+    "name": "Mecca Masjid",
+    "city": "Hyderabad",
+    "location": {
+      "latitude": 17.360450,
+      "longitude": 78.473578
+    }
+  },
+  {
+    "name": "Sheesh Palace",
+    "city": "Jodhpur",
+    "location": {
+      "latitude": 26.299236,
+      "longitude": 73.019395
+    }
+  },
+  {
+    "name": "Monte Alban",
+    "city": "Oaxaca",
+    "location": {
+      "latitude": 17.045466,
+      "longitude": -96.767266
+    }
+  },
+  {
+    "name": "Copper Canyon: Mexico's Grand Canyon",
+    "city": "Chihuahua",
+    "location": {
+      "latitude": 27.528070,
+      "longitude": -107.756113
+    }
+  },
+  {
+    "name": "Chichén Itzá: The Mayan Metropolis",
+    "city": "Yucatán",
+    "location": {
+      "latitude": 20.683273,
+      "longitude": -88.568782
+    }
+  },
+  {
+    "name": "Cathedral of the Devine Savior",
+    "city": "Teotihuacan, State of Mexico",
+    "location": {
+      "latitude": 19.682054,
+      "longitude": -98.869894
+    }
+  },
+  {
+    "name": "Larnach Castle",
+    "city": "Dunedin",
+    "location": {
+      "latitude": -45.861636,
+      "longitude": 170.627123
+    }
+  },
+  {
+    "name": "Rainbows End",
+    "city": "Auckland",
+    "location": {
+      "latitude": -36.993844,
+      "longitude": 174.883722
+    }
+  },
+  {
+    "name": "Skyline Gondola",
+    "city": "Queenstown",
+    "location": {
+      "latitude": -45.028544,
+      "longitude": 168.656245
+    }
+  },
+  {
+    "name": "Cape Reinga Lighthouse",
+    "city": "Northland",
+    "location": {
+      "latitude": -34.426689,
+      "longitude": 172.677672
+    }
+  },
+  {
+    "name": "Hobbiton Movie Set",
+    "city": "Matamata",
+    "location": {
+      "latitude": -37.872051,
+      "longitude": 175.682913
+    }
+  },
+  {
+    "name": "Waiotapu Thermal Wonderland",
+    "city": "Rotorua",
+    "location": {
+      "latitude": -38.358251,
+      "longitude": 176.368992
+    }
+  },
+  {
+    "name": "Waitomo Caves",
+    "city": "Waitomo",
+    "location": {
+      "latitude": -38.2607751,
+      "longitude": 175.103731
+    }
+  },
+  {
+    "name": "Aoraki / Mount Cook National Park",
+    "city": "South Island",
+    "location": {
+      "latitude": -43.566270,
+      "longitude": 170.323236
+    }
+  },
+  {
+    "name": "Idanre Hill Peak",
+    "city": "Idanre",
+    "location": {
+      "latitude": 7.103783,
+      "longitude": 5.19495
+    }
+  },
+  {
+    "name": "Kajuru Castle",
+    "city": "Kaduna",
+    "location": {
+      "latitude": 10.312730,
+      "longitude": 7.679221
+    }
+  },
+  {
+    "name": "ZUMA Rock FCT Abuja",
+    "city": "Kubwa",
+    "location": {
+      "latitude": 9.129268,
+      "longitude": 7.233037
+    }
+  },
+  {
+    "name": "Kruger National Park",
+    "city": "Mpumalanga and Limpopo Provinces",
+    "location": {
+      "latitude": -23.988385,
+      "longitude": 31.554743
+    }
+  },
+  {
+    "name": "Sun City Resort",
+    "city": "Sun City",
+    "location": {
+      "latitude": -25.346955,
+      "longitude": 27.100198
+    }
+  },
+  {
+    "name": "Shark Cage Diving with Great White Sharks",
+    "city": "Gansbaai",
+    "location": {
+      "latitude": -34.614919,
+      "longitude": 19.355005
+    }
+  },
+  {
+    "name": "Kirstenbosch National Botanical Gardens",
+    "city": "Cape Town",
+    "location": {
+      "latitude": -33.987498,
+      "longitude": 18.432732
+    }
+  },
+  {
+    "name": "Golden Gate Highlands National Park",
+    "city": "Clarens",
+    "location": {
+      "latitude": -28.516658,
+      "longitude": 28.616676
+    }
+  }
+]

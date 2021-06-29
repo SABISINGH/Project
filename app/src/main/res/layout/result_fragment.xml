@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="@dimen/margin_10"
+    tools:context=".ui.result.ResultFragment">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:gravity="center"
+        android:orientation="vertical">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/margin_25"
+            android:text="@string/result"
+            android:textSize="@dimen/size_32"
+            android:textStyle="bold" />
+
+        <ImageView
+            android:layout_width="@dimen/margin_300"
+            android:layout_height="@dimen/margin_400"
+            android:contentDescription="@string/image"
+            android:src="@drawable/award" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/margin_16"
+            android:text="@string/congratulations"
+            android:textSize="@dimen/size_32"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/tv_score"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/margin_10"
+            android:paddingTop="@dimen/margin_8"
+            android:textSize="@dimen/size_20"
+            tools:text="Your Score is 5" />
+
+        <Button
+            android:id="@+id/btn_highScore"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/highest_score"
+            android:textSize="@dimen/margin_22"
+            android:textStyle="bold" />
+
+        <Button
+            android:id="@+id/btn_finish"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/finish"
+            android:textSize="@dimen/margin_22"
+            android:textStyle="bold" />
+    </LinearLayout>
+</ScrollView>

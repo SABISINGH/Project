@@ -1,17 +1,81 @@
 <?xml version="1.0" encoding="utf-8"?>
-<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
+    android:layout_margin="@dimen/margin_0"
+    android:orientation="vertical"
     tools:context=".ui.home.HomeFragment">
 
-    <TextView
+    <LinearLayout
         android:layout_width="match_parent"
         android:layout_height="match_parent"
-        android:gravity="center"
-        android:textSize="45sp"
-        android:textStyle="bold"
-        android:background="@color/AntiqueWhite"
-        android:text="@string/home" />
+        android:layout_weight="1"
+        android:background="@color/light_primary"
+        android:orientation="horizontal">
 
-</FrameLayout>
+        <Button
+            android:id="@+id/entMaps"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_margin="@dimen/margin_1"
+            android:layout_weight="1"
+            android:text="@string/maps"
+            android:textStyle="bold"
+            tools:ignore="NestedWeights" />
+
+        <Button
+            android:id="@+id/entQuiz"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_margin="@dimen/margin_1"
+            android:layout_weight="1"
+            android:text="@string/quiz"
+            android:textStyle="bold" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_weight="1"
+        android:background="@color/light_primary"
+        android:orientation="horizontal">
+
+        <Button
+            android:id="@+id/entTranslator"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_margin="@dimen/margin_1"
+            android:layout_weight="1"
+            android:text="@string/translator"
+            android:textStyle="bold"
+            tools:ignore="NestedWeights" />
+
+        <Button
+            android:id="@+id/entKeyPhrases"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_margin="@dimen/margin_1"
+            android:layout_weight="1"
+            android:text="@string/key_phrases"
+            android:textStyle="bold" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_weight="1"
+        android:background="@color/light_primary"
+        android:orientation="horizontal">
+
+        <Button
+            android:id="@+id/entSettings"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_margin="@dimen/margin_1"
+            android:layout_weight="1"
+            android:text="@string/settings"
+            android:textStyle="bold"
+            tools:ignore="NestedWeights" />
+    </LinearLayout>
+</LinearLayout>

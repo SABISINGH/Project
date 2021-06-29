@@ -1,17 +1,64 @@
 <?xml version="1.0" encoding="utf-8"?>
-<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
+    android:layout_margin="0pt"
+    android:orientation="vertical"
     tools:context=".ui.translation.TranslationFragment">
 
-    <TextView
+    <LinearLayout
         android:layout_width="match_parent"
         android:layout_height="match_parent"
-        android:gravity="center"
-        android:textSize="45sp"
-        android:background="@color/AntiqueWhite"
-        android:textStyle="bold"
-        android:text="@string/translator" />
+        android:orientation="vertical"
+        tools:ignore="ScrollViewSize">
 
-</FrameLayout>
+        <EditText
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/margin_200"
+            android:hint="@string/please_enter_your_text_here"
+            android:textColor="@color/black" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/margin_200"
+            android:gravity="center|start"
+            android:hint="@string/translation_result"
+            android:textColor="@color/black" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="1"
+            android:orientation="horizontal">
+
+            <Spinner
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:layout_marginStart="1dp" />
+
+            <Button
+                android:id="@+id/entTranslation"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:layout_marginStart="@dimen/margin_4"
+                android:layout_weight="1"
+                android:text="@string/translate_text"
+                android:textSize="@dimen/size_12"
+                android:textStyle="bold"
+                tools:ignore="NestedWeights" />
+
+            <Button
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:layout_marginStart="@dimen/margin_4"
+                android:layout_marginEnd="@dimen/margin_4"
+                android:layout_weight="1"
+                android:drawableLeft="@drawable/ic_microphone"
+                android:text="@string/speech"
+                android:textSize="@dimen/size_12"
+                android:textStyle="bold"
+                tools:ignore="RtlHardcoded" />
+        </LinearLayout>
+    </LinearLayout>
+</ScrollView>

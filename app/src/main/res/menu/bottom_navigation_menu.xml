@@ -9,6 +9,7 @@
         android:id="@+id/navigation_translation"
         android:icon="@drawable/ic_baseline_g_translate_24"
         android:title="@string/translator" />
+
     <item
         android:id="@+id/navigation_quiz"
         android:icon="@drawable/ic_baseline_games_24"

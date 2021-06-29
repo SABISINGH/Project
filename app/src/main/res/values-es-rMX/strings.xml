@@ -1,0 +1,242 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Viajar por la tierra</string>
+    <string name="phrases">Frases</string>
+    <string name="settings">Ajustes</string>
+    <string name="quiz">Prueba</string>
+    <string name="translator">Traductor</string>
+    <string name="home">Casa</string>
+    <string name="maps">Mapas</string>
+    <string name="key_phrases">Frases clave</string>
+    <string name="title_activity_maps">Principales atracciones turísticas</string>
+    <string name="change_map_style">Cambiar el estilo del mapa</string>
+    <string name="error_connection">Error de conexión :(</string>
+    <string name="loading_data">Cargando…</string>
+    <string name="flag">bandera</string>
+    <string name="name">Nombre: %1$s</string>
+    <string name="capital">Idioma oficial: %1$s</string>
+    <string name="please_enter_your_text_here">Por favor ingrese su texto aquí</string>
+    <string name="translation_result">Resultado de la traducción</string>
+    <string name="translate_text">Traducir</string>
+    <string name="speech">Discurso</string>
+
+    <!-- Strings used for Argentina's key phrases -->
+    <string name="argentina_phrase_1">Phrase 1: Donde está el baño</string>
+    <string name="argentina_phrase_1_meaning">Meaning: "Where's the restroom?"</string>
+    <string name="argentina_phrase_2">Phrase 2: No hablo castellano</string>
+    <string name="argentina_phrase_2_meaning">Meaning: "I don't speak Spanish"</string>
+    <string name="argentina_phrase_3">Phrase 3: Hablás inglés</string>
+    <string name="argentina_phrase_3_meaning">Meaning: Do you speak English ?</string>
+    <string name="argentina_phrase_4">Phrase 4: Salud</string>
+    <string name="argentina_phrase_4_meaning">Meaning: Cheers - bless you (when someone sneezes)</string>
+    <string name="argentina_phrase_5">Phrase 5: Cuanto sale</string>
+    <string name="argentina_phrase_5_meaning">Meaning: How much does it cost?</string>
+    <string name="argentina_phrase_6">Phrase 6: Donde está Sabi</string>
+    <string name="argentina_phrase_6_meaning">Meaning: Where is Sabi?</string>
+
+    <!-- Strings used for Australia's key phrases -->
+    <string name="Australia_phrase_1">Phrase 1: "No worries, mate, she'll be right"</string>
+    <string name="Australia_phrase_1_meaning">Meaning: "Reflects a national stoicism that suggests everything (she) will turn out fine in the end. This being the case, there's no real point in worrying about anything."</string>
+    <string name="Australia_phrase_2">Phrase 2: Hit the frog and toad</string>
+    <string name="Australia_phrase_2_meaning">Meaning: "Different to having a frog in your throat, which means having a sore throat. Hitting the frog and toad is when you hit the road. Get out of 'ere."</string>
+    <string name="Australia_phrase_3">Phrase 3: One for the road</string>
+    <string name="Australia_phrase_3_meaning">Meaning: "A last drink before going home. Said at bars or friend's houses before going home."</string>
+    <string name="Australia_phrase_4">Phrase 4: Cooee</string>
+    <string name="Australia_phrase_4_meaning">Meaning: "A loud, Aboriginal cry in the outback that tells people where you are, assuming they're within cooee range."</string>
+    <string name="Australia_phrase_5">Phrase 5: Have a go, you mug</string>
+    <string name="Australia_phrase_5_meaning">Meaning: Generally refers to anyone who isn\'t putting in a full effort or taking any risks.</string>
+    <string name="Australia_phrase_6">Phrase 6: Smoko, garbo, bowlo, bottlo, arvo</string>
+    <string name="Australia_phrase_6_meaning">Meaning: "An "o" is the suffix to any word it can shorten. If in doubt, throw an "o" on the end of the word and it's bound to be Australian. e.g. A break when you smoke is a "smoko." Someone who collects garbage is a "garbo." "</string>
+    <string name="Australia_phrase_7">Phrase 7: "Bushman's handkerchief"</string>
+    <string name="Australia_phrase_7_meaning">Meaning: Not really a handkerchief at all, but using your hands to delicately drain the snot from your nose.</string>
+
+
+    <!-- Strings used for Brazil's key phrases -->
+    <string name="Brazil_phrase_1">Phrase 1: Bom dia (boa tarde)</string>
+    <string name="Brazil_phrase_1_meaning">Meaning: Good morning (good afternoon)</string>
+    <string name="Brazil_phrase_2">Phrase 2: Como vai você?</string>
+    <string name="Brazil_phrase_2_meaning">Meaning: How are you? </string>
+    <string name="Brazil_phrase_3">Phrase 3: Você fala inglês?</string>
+    <string name="Brazil_phrase_3_meaning">Meaning: Do you speak English?</string>
+    <string name="Brazil_phrase_4">Phrase 4: Tudo bem?</string>
+    <string name="Brazil_phrase_4_meaning">Meaning: A super-common informal greeting. “How’s it going?” (lit. “Everything good?”)</string>
+    <string name="Brazil_phrase_5">Phrase 5: O Brasil é lindo maravilhoso!</string>
+    <string name="Brazil_phrase_5_meaning">Meaning: Brazil is magnificent!</string>
+    <string name="Brazil_phrase_6">Phrase 6: Valeu</string>
+    <string name="Brazil_phrase_6_meaning">Meaning: Valeu is an informal way to say ‘thanks’ and would translate to ‘cheers’ in English.</string>
+    <string name="Brazil_phrase_7">Phrase 7: Tranquilo</string>
+    <string name="Brazil_phrase_7_meaning">Meaning: ranquilo literally translates into ‘tranquil’, but it usually is used to mean ‘it’s ok’ or ‘yeah, sure’.</string>
+
+    <!-- Strings used for Canada's key phrases -->
+    <string name="Canada_phrase_1">Phrase 1: Keener</string>
+    <string name="Canada_phrase_1_meaning">Meaning: A person who is extremely eager, zealous, or enthusiastic.</string>
+    <string name="Canada_phrase_2">Phrase 2: Klick</string>
+    <string name="Canada_phrase_2_meaning">Meaning: This term refers to kilometers, the unit of length in the metric system equal to 1,000m.</string>
+    <string name="Canada_phrase_3">Phrase 3: Two-four</string>
+    Meaning:
+    <string name="Canada_phrase_3_meaning">This term is commonly used to refer to a case of 24 beers.</string>
+    <string name="Canada_phrase_4">Phrase 4: Eh?</string>
+    <string name="Canada_phrase_4_meaning">Meaning: Pronounced “ay.” This word is used in everyday Canadian vernacular to indicate that you don’t understand something, It’s similar to the phrases “huh,” “right?” and “what?”.</string>
+    <string name="Canada_phrase_5">Phrase 5: What you sayin’?</string>
+    <string name="Canada_phrase_5_meaning">Meaning: One of those Canadian sayings that can be misleading. It’s used when asking what someone is doing – similar to the phrase “What are you up to?”</string>
+    <string name="Canada_phrase_6">Phrase 6: Molson Muscle</string>
+    <string name="Canada_phrase_6_meaning">Meaning: Here’s another great Canadian phrase for you, the Molson Muscle. It’s what Canadians call a beer belly.</string>
+
+    <!-- Strings used for China's key phrases -->
+    <string name="China_phrase_1">Phrase 1: " 水满则溢。(Shuǐmǎn zé yì. 'water full but overflows') — Water flows in only to flow out. "</string>
+    <string name="China_phrase_1_meaning">Meaning: Similar to "what comes up must come down", this proverb points out that: things reverse when they reach their extremes. It\'s from the 18th century novel "A Dream of Red Mansions".</string>
+    <string name="China_phrase_2">Phrase 2:  三个和尚没水喝。 (Sān gè héshàng méi shuǐ hē. - three monks have no water to drink — Too many cooks spoil the broth.</string>
+    <string name="China_phrase_2_meaning">Meaning: I.e. if too many people try to do something, like three monks trying to carry one bucket of water, they make a mess of it.</string>
+    <string name="China_phrase_3">Phrase 3: Nǐ hǎo ma? (Nee-haoww-mah?) 你好吗</string>
+    <string name="China_phrase_3_meaning">Meaning: How are you?</string>
+    <string name="China_phrase_4">Phrase 4: Xièxie. (sshyeah-sshyeah) 谢 谢</string>
+    <string name="China_phrase_4_meaning">Meaning: This is the basic and simple way to say thank you.</string>
+    <string name="China_phrase_5">Phrase 5: Duōshao qián? 多少钱 (Dwor-sshaoww chyen?)</string>
+    <string name="China_phrase_5_meaning">Meaning: The phrase duōshao? is composed of the words duō (much) and shǎo (few), and means how much? or how many? Qián means money.</string>
+    <string name="China_phrase_6">Phrase 6: Wǒ xiǎng qù… (Wor sshyang chyoo …) 我想去 …</string>
+    <string name="China_phrase_6_meaning">Meaning: The three words are: wǒ (I), xiǎng (want), and qù (to go). Then add the name of the place. This is useful for buying train tickets, taking a taxi, etc.</string>
+
+    <!-- Strings used for France's key phrases -->
+    <string name="France_phrase_1">Phrase 1: Bienvenue.</string>
+    <string name="France_phrase_1_meaning">Meaning: Welcome</string>
+    <string name="France_phrase_2">Phrase 2: Madame/Monsieur/Mademoiselle</string>
+    <string name="France_phrase_2_meaning">Meaning: Mrs. /Mr. /Miss</string>
+    <string name="France_phrase_3">Phrase 3: Parlez-vous anglais?</string>
+    <string name="France_phrase_3_meaning">Meaning: Do you speak English?</string>
+    <string name="France_phrase_4">Phrase 4: Merci beaucoup </string>
+    <string name="France_phrase_4_meaning">Meaning: Thank you very much</string>
+    <string name="France_phrase_5">Phrase 5: Être dans la galère. - To be in the galley</string>
+    <string name="France_phrase_5_meaning">Meaning: To get yourself into a mess</string>
+    <string name="France_phrase_6">Phrase 6: Pisser dans un violon - To piss in a violin</string>
+    <string name="France_phrase_6_meaning">Meaning: To waste your efforts</string>
+
+    <!-- Strings used for Germany's key phrases -->
+    <string name="Germany_phrase_1">Phrase 1: Das ist mir Wurst - This is sausage to me</string>
+    <string name="Germany_phrase_1_meaning">Meaning: This expressions is used if you are indifferent or don’t care about something.</string>
+    <string name="Germany_phrase_2">Phrase 2: Jemandem die Daumen drücken - To press your thumbs for someone</string>
+    <string name="Germany_phrase_2_meaning">Meaning: In Germany they use this expression to wish someone good luck. It is often also accompanied with someone raising their fists and showing you that they are literally pressing their thumbs for you.</string>
+    <string name="Germany_phrase_3">Phrase 3: Ich glaub mein Schwein pfeift - I think my pig whistles</string>
+    <string name="Germany_phrase_3_meaning">Meaning: Germans use the phrase when they cannot believe something to be true or to express that they’re really surprised.</string>
+    <string name="Germany_phrase_4">Phrase 4: Fix und fertig sein -  To be fixed and finished</string>
+    <string name="Germany_phrase_4_meaning">Meaning: his phrase is commonly used to express that you are completely exhausted.</string>
+    <string name="Germany_phrase_5">Phrase 5: Jemandem auf den Keks gehen - To go on someone’s cookie</string>
+    <string name="Germany_phrase_5_meaning">Meaning: It is used to express that someone is getting on our nerves.</string>
+    <string name="Germany_phrase_6">Phrase 6: Die Nase voll haben - To have the nose full</string>
+    <string name="Germany_phrase_6_meaning">Meaning: This expression is just another, more creative, way of saying “enough is enough”. It’s often used when someone is fed up with a particular situation and no longer wants to talk about it.</string>
+
+    <!-- Strings used for India's key phrases -->
+    <string name="India_phrase_1">Phrase 1: Jugaad</string>
+    <string name="India_phrase_1_meaning">Meaning: The Oxford English Dictionary defines the word jugaad as “a flexible approach to problem-solving that uses limited resources in an innovative way”. </string>
+    <string name="India_phrase_2">Phrase 2: Ghanta</string>
+    <string name="India_phrase_2_meaning">Meaning: While the literal translation of ghanta is “bell”, it has become a common slang term in India. It expresses disbelief and is close in comparison to the phrase “yeah, right!”</string>
+    <string name="India_phrase_3">Phrase 3: Dhinchak</string>
+    <string name="India_phrase_3_meaning">Meaning: It’s similar in meaning to “bling”, but dhinchak applies to a lot of other things and isn’t limited to jewellery. A dhinchak person, for instance, is someone who tries to show a lot of swag.</string>
+    <string name="India_phrase_4">Phrase 4: Waat Lag Gayi</string>
+    <string name="India_phrase_4_meaning">Meaning: It means “ I am screwed!” or “We are screwed!” or “We are in the middle of a big screw-up”</string>
+    <string name="India_phrase_5">Phrase 5: Pandu</string>
+    <string name="India_phrase_5_meaning">Meaning: This word is used to refer to a police constable or a traffic police official. Sometimes it is also replaced by the commonly used “Mama” which means “Uncle” but in this case – a policeman.</string>
+    <string name="India_phrase_6">Phrase 6: Shaane</string>
+    <string name="India_phrase_6_meaning">Meaning: It simply means “You smart-ass!” or when used sarcastically, it could mean – “Do you think you are a smart ass?”</string>
+
+    <!-- Strings used for Mexico's key phrases -->
+    <string name="Mexico_phrase_1">Phrase 1: Al mal tiempo, buena cara.</string>
+    <string name="Mexico_phrase_1_meaning">Meaning: Put a good face to the bad times. Be positive.</string>
+    <string name="Mexico_phrase_2">Phrase 2: Barriga llena, corazón contento.</string>
+    <string name="Mexico_phrase_2_meaning">Meaning: Full stomach, happy heart.</string>
+    <string name="Mexico_phrase_3">Phrase 3: Güey (also spelled “wey”)</string>
+    <string name="Mexico_phrase_3_meaning">Meaning: Güey translates roughly to “dude” or “man” in Mexico.</string>
+    <string name="Mexico_phrase_4">Phrase 4: Al mal tiempo, buena cara.</string>
+    <string name="Mexico_phrase_4_meaning">Meaning: To bad times a good face. Put a good face to the bad times. Be positive.</string>
+    <string name="Mexico_phrase_5">Phrase 5: Camarón que se duerme se lo lleva la corriente.</string>
+    <string name="Mexico_phrase_5_meaning">Meaning: The shrimp that falls asleep is swept away by the current. You snooze, you lose.</string>
+    <string name="Mexico_phrase_6">Phrase 6: A fuerza, ni los zapatos entran.</string>
+    <string name="Mexico_phrase_6_meaning">Meaning: You can’t  force your shoes to fit.  You can’t force your way into anything.</string>
+
+    <!-- Strings used for New Zealand's key phrases -->
+    <string name="New_Zealand_phrase_1">Phrase 1: Just popping to the dairy.</string>
+    <string name="New_Zealand_phrase_1_meaning">Meaning: I’m going to the convenience store.</string>
+    <string name="New_Zealand_phrase_2">Phrase 2: Wop-wops - Middle of nowhere</string>
+    <string name="New_Zealand_phrase_2_meaning">Meaning: The wop-wops are often teamed with the phrase tiki-tour, which refers to “taking the long way round,” or just getting totally and utterly lost.</string>
+    <string name="New_Zealand_phrase_3">Phrase 3: Get your A into G! - Rattle ya dags!</string>
+    <string name="New_Zealand_phrase_3_meaning">Meaning: Another way to say “hurry up,” the full sentence is actually: “Get your arse into gear!”</string>
+    <string name="New_Zealand_phrase_4">Phrase 4: It was choice, bro! - It was good.</string>
+    <string name="New_Zealand_phrase_4_meaning">Meaning: “Choice” is a versatile word in New Zealand, and pretty much means anything that’s positive — “ok,” “cool,” “I agree,” “I understand,” “It’s been good.”</string>
+    <string name="New_Zealand_phrase_5">Phrase 5: Yeah-nah - No, thank you.</string>
+    <string name="New_Zealand_phrase_5_meaning">Meaning: Even though it reads like both a yes and a no, yeah-nah is basically just a polite no.</string>
+    <string name="New_Zealand_phrase_6">Phrase 6: BUGGER</string>
+    <string name="New_Zealand_phrase_6_meaning">Meaning: You can use bugger when something goes wrong. It’s mostly heard on a farm. This NZ slang is basically a curse word.</string>
+    <string name="New_Zealand_phrase_7">Phrase 7: "He looks a bit SUS” OR “That's a bit SUS "</string>
+    <string name="New_Zealand_phrase_7_meaning">Meaning: When a situation or someone is particularly suspicious.</string>
+    <string name="New_Zealand_phrase_8">Phrase 8: Piece of piss</string>
+    <string name="New_Zealand_phrase_8_meaning">Meaning: This basically means when something is easy.</string>
+
+    <!-- Strings used for Nigeria's key phrases -->
+    <string name="Nigeria_phrase_1">Phrase 1: How bodi? - How you dey?</string>
+    <string name="Nigeria_phrase_1_meaning">Meaning: How are you doing today?</string>
+    <string name="Nigeria_phrase_2">Phrase 2: I no sabi</string>
+    <string name="Nigeria_phrase_2_meaning">Meaning: I don’t understand</string>
+    <string name="Nigeria_phrase_3">Phrase 3: Amebo</string>
+    <string name="Nigeria_phrase_3_meaning">Meaning: This slang word is used to refer to a person who likes to gossip or likes to spread gossip.</string>
+    <string name="Nigeria_phrase_4">Phrase 4: Control(Ctrl) P</string>
+    <string name="Nigeria_phrase_4_meaning">Meaning: A recent slang in the Nigerian slang lexicon, ‘control P’ is a term used when someone is taking a situation too personally.</string>
+    <string name="Nigeria_phrase_5">Phrase 5: Fall my hand</string>
+    <string name="Nigeria_phrase_5_meaning">Meaning: This is another popular slang that is used when someone is disappointed by a person or something that happened.</string>
+    <string name="Nigeria_phrase_6">Phrase 6: Who dey Breeett?</string>
+    <string name="Nigeria_phrase_6_meaning">Meaning: It means “who is breathing?” in Pidgin English.</string>
+
+    <!-- Strings used for South Africa's key phrases -->
+    <string name="South_Africa_phrase_1">Phrase 1: Slap chips</string>
+    <string name="South_Africa_phrase_1_meaning">Meaning: Slap chips [slup chips] is a slang phrase for deep-fried potato chips sold at takeaway seafood shops, grocery stores and restaurants. </string>
+    <string name="South_Africa_phrase_2">Phrase 2: Braai</string>
+    <string name="South_Africa_phrase_2_meaning">Meaning: Braai [br-eye] is a widely used noun and verb for an outdoor ‘barbecue’ where meat is cooked over a fire or coals.</string>
+    <string name="South_Africa_phrase_3">Phrase 3: Boerewors</string>
+    <string name="South_Africa_phrase_3_meaning">Meaning: Boerewors [boor-uh-vors] is an Afrikaans term for ‘farmer’s sausage’ — a traditional South African meat often enjoyed at a braai.</string>
+    <string name="South_Africa_phrase_4">Phrase 4: Jol</string>
+    <string name="South_Africa_phrase_4_meaning">Meaning: Jol [jawl] is a widely-used term for ‘club’, ‘party’ or to ‘have fun’. Eg. ‘We had a jol last night!’</string>
+    <string name="South_Africa_phrase_5">Phrase 5: Dankie - dunkey</string>
+    <string name="South_Africa_phrase_5_meaning">Meaning: Thank you</string>
+    <string name="South_Africa_phrase_6">Phrase 6: Howzit?</string>
+    <string name="South_Africa_phrase_6_meaning">Meaning: How are you?</string>
+
+
+
+
+    <string name="brazil_key_phrases">Frases clave de Brasil</string>
+    <string name="argentina_key_phrases">Frases clave de Argentina</string>
+    <string name="australia_key_phrases">Australia frases clave</string>
+    <string name="germany_key_phrases">Frases clave de Alemania</string>
+    <string name="china_key_phrases">China Frases dominantes</string>
+    <string name="france_key_phrases">Frases clave de Francia</string>
+    <string name="india_key_phrases">Frases clave de India</string>
+    <string name="mexico_key_phrases">Frases clave de México</string>
+    <string name="newzealand_key_phrases">Frases clave de Nueva Zelanda</string>
+    <string name="nigeria_key_phrases">Frases clave de Nigeria</string>
+    <string name="southafrica_key_phrases">Frases clave de Sudáfrica</string>
+    <string name="privacy_policy">Política de privacidad</string>
+    <string name="terms_amp_conditions"><![CDATA[Términos y condiciones ]]></string>
+    <string name="light_mode_dark_mode">Modo claro / Modo oscuro</string>
+    <string name="facebook">Facebook</string>
+    <string name="github">Github</string>
+    <string name="exit_app">Salir de la aplicación</string>
+    <string name="backpress_exit_yes">sí</string>
+    <string name="backpress_exit_confirmation_message">¿Estás seguro de que quieres salir?</string>
+    <string name="backpress_no_text">No</string>
+    <string name="backpress_toast_confirmation">No, presione dos veces si desea salir de la aplicación</string>
+    <string name="switch_dark_mode">modo_oscuro</string>
+    <string name="maps_toast_error_message">Algo salió mal !!</string>
+    <string name="settings_facebook_link">https://www.facebook.com/</string>
+    <string name="settings_github_link">https://www.github.com/</string>
+    <string name="score">Has anotado: %1$s</string>
+    <string name="Please_select_an_answer">Seleccione una respuesta.</string>
+    <string name="Your_answer_was_correct">Tu respuesta fue correcta.</string>
+    <string name="image">imagen</string>
+    <string name="Score">" Puntaje"</string>
+    <string name="submit">" Enviar"</string>
+    <string name="result">" RESULTADO"</string>
+    <string name="congratulations">" ¡Felicidades!"</string>
+    <string name="highest_score">" Puntuación más alta"</string>
+    <string name="finish">" TERMINAR"</string>
+    <string name="country_quiz_game">Juego de preguntas sobre el país</string>
+
+
+</resources>

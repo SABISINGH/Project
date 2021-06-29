@@ -2,13 +2,26 @@
 <navigation xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
-    app:startDestination="@+id/navigation_home"
-    android:id="@+id/mobile_navigation">
+    app:startDestination="@+id/navigation_home">
     <fragment
         android:id="@+id/navigation_home"
         android:name="op.mobile.app.dev.singhs2.travelling.ui.home.HomeFragment"
         android:label="@string/home"
-        tools:layout="@layout/home_fragment" />
+        tools:layout="@layout/home_fragment">
+
+        <action
+            android:id="@+id/action_home_fragment_to_quiz_fragment"
+            app:destination="@id/navigation_quiz" />
+        <action
+            android:id="@+id/action_home_fragment_to_translator_fragment"
+            app:destination="@id/navigation_translation" />
+        <action
+            android:id="@+id/action_home_fragment_to_keyphrases_fragment"
+            app:destination="@id/navigation_phrases" />
+        <action
+            android:id="@+id/action_home_fragment_to_settings_fragment"
+            app:destination="@id/navigation_settings" />
+    </fragment>
     <fragment
         android:id="@+id/navigation_phrases"
         android:name="op.mobile.app.dev.singhs2.travelling.ui.phrases.PhrasesFragment"
@@ -18,7 +31,39 @@
         android:id="@+id/navigation_quiz"
         android:name="op.mobile.app.dev.singhs2.travelling.ui.quiz.QuizFragment"
         android:label="@string/quiz"
-        tools:layout="@layout/quiz_fragment" />
+        tools:layout="@layout/quiz_fragment">
+        <action
+            android:id="@+id/action_quiz_fragment_to_quiz_game_fragment"
+            app:destination="@id/navigation_quiz_game" />
+    </fragment>
+    <fragment
+        android:id="@+id/navigation_quiz_game"
+        android:name="op.mobile.app.dev.singhs2.travelling.ui.quiz.QuizGameFragment"
+        android:label="@string/country_quiz_game"
+        tools:layout="@layout/fragment_quiz_game">
+        <argument
+            android:name="country"
+            app:argType="op.mobile.app.dev.singhs2.travelling.model.GitHubCountries" />
+        <action
+            android:id="@+id/action_quiz_game_fragment_to_result_fragment"
+            app:destination="@id/navigation_result" />
+    </fragment>
+    <fragment
+        android:id="@+id/navigation_result"
+        android:name="op.mobile.app.dev.singhs2.travelling.ui.result.ResultFragment"
+        android:label="@string/result"
+        tools:layout="@layout/result_fragment" >
+         <action
+            android:id="@+id/action_result_fragment_to_home_fragment"
+            app:destination="@id/navigation_home" />
+        <action
+            android:id="@+id/action_result_fragment_to_score_game_fragment"
+            app:destination="@id/navigation_score" />
+        <argument
+            android:name="score"
+            android:defaultValue="0"
+            app:argType="integer" />
+    </fragment>
     <fragment
         android:id="@+id/navigation_translation"
         android:name="op.mobile.app.dev.singhs2.travelling.ui.translation.TranslationFragment"
@@ -29,5 +74,13 @@
         android:name="op.mobile.app.dev.singhs2.travelling.ui.settings.SettingsFragment"
         android:label="@string/settings"
         tools:layout="@layout/settings_fragment" />
-
+    <fragment
+        android:id="@+id/navigation_score"
+        android:name="op.mobile.app.dev.singhs2.travelling.ui.roomdatabase.ListFragment"
+        android:label="Highest Score"
+        tools:layout="@layout/fragment_list" >
+        <action
+            android:id="@+id/action_score_fragment_to_score_home"
+            app:destination="@id/navigation_home" />
+    </fragment>
 </navigation>
